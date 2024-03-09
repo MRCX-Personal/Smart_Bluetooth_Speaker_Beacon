@@ -4,7 +4,7 @@ zh-CN/简体中文：[查看链接](https://) <br>
 
 This project is a Smart Bluetooth Speaker in the shape of the Beacon in game Minecraft. <br>
 This repository includes programs, circuit information, and 3D models of this project. <br>
-The video demonstration and tutorial for this project:[Bilibili](https://) <br>
+The video demonstration and tutorial for this project:[Bilibili](https://www.bilibili.com/video/av1401504252/) <br>
 I would greatly appreciate it if you press like or subscribe. <br>
 
 ## Features
