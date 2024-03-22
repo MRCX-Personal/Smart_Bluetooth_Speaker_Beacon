@@ -42,6 +42,9 @@ IN-PA6
 BLE receiver:
 key-PA3 
 ```
+you can view this picture as reference.
+![pic4](https://github.com/MRCX-Personal/Smart_Bluetooth_Speaker_Beacon/blob/main/pic/connect.jpg?raw=true)
+
 
 ## Reference documents
 * [ASRPRO扩展库[WS2812]](https://haohaodada.com/new/bbs/forum.php?mod=viewthread&tid=860&extra=)
