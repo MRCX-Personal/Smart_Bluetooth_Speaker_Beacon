@@ -7,11 +7,11 @@ This repository includes programs, circuit information, and 3D models of this pr
 The video demonstration and tutorial for this project:[Bilibili](https://www.bilibili.com/video/av1401504252/) <br>
 I would greatly appreciate it if you press like or subscribe. <br>
 
-## Features
-* Bluetooth speaker
-* voice recognize/voice commands
-* RGB Full Color Night light/Atmosphere light
-* Build in Battery
+## Features/功能
+* Bluetooth speaker/蓝牙音箱
+* voice recognize/voice commands/语音控制
+* RGB Full Color Night light/Atmosphere light/RGB全彩氛围灯
+* Build in Battery/内置电池，可离线使用
 
 ![pic1](https://github.com/MRCX-Personal/Smart_Bluetooth_Speaker_Beacon/blob/main/pic/sample.jpg?raw=true)
 
@@ -19,15 +19,15 @@ I would greatly appreciate it if you press like or subscribe. <br>
 
 ![pic3](https://github.com/MRCX-Personal/Smart_Bluetooth_Speaker_Beacon/blob/main/pic/colourful.jpg?raw=true)
 
-## Component List
-* WS2812
-* asrpro
-* PAM8403
-* 3.7V battery
-* speaker*2
-* Bluetooth receiver
+## Component List/原件清单
+* WS2812/全彩LED灯珠
+* asrpro/语音识别开发板，作为主控
+* 3.7V battery/电池和3.7-5v充放电升压板
+* speaker*2/2个扬声器，这里选用的是2个lg g7的拆机扬声器
+* Bluetooth receiver/蓝牙音频接收板，这里选用的是“MH-M18”的板子，支持3.7v或者5v输入，有按键控制
+* 音频功放板，如果使用的蓝牙板自带功放，则不需要此原件，这里选用的是PAM8403
 
-## Circuit and connect
+## Circuit and connect/电路连接
 
 ```
 Type-C:
@@ -46,6 +46,6 @@ you can view this picture as reference.
 ![pic4](https://github.com/MRCX-Personal/Smart_Bluetooth_Speaker_Beacon/blob/main/pic/connect.jpg?raw=true)
 
 
-## Reference documents
+## Reference documents/参考资料
 * [ASRPRO扩展库[WS2812]](https://haohaodada.com/new/bbs/forum.php?mod=viewthread&tid=860&extra=)
 * [ASRPRO 核心板规格书](http://www.haohaodada.com/jpeguploadfile/twen/ASRPRO/ASRPROCoreV1.1.pdf)
