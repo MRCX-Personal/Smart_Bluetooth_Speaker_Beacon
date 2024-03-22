@@ -44,7 +44,7 @@ BLE receiver:
 key-PA3 
 ```
 you can view this picture as reference.
-![pic4](https://github.com/MRCX-Personal/Smart_Bluetooth_Speaker_Beacon/blob/main/pic/connect.jpg?raw=true)
+![pic4](https://github.com/MRCX-Personal/Smart_Bluetooth_Speaker_Beacon/blob/main/pic/connect.JPG?raw=true)
 
 
 ## Reference documents/参考资料
