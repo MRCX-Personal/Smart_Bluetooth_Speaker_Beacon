@@ -12,6 +12,7 @@ I would greatly appreciate it if you press like or subscribe. <br>
 * voice recognize/voice commands/语音控制
 * RGB Full Color Night light/Atmosphere light/RGB全彩氛围灯
 * Build in Battery/内置电池，可离线使用
+* Glow at dark environment/暗处有荧光效果（吸收光线以发光，不耗电）
 
 ![pic1](https://github.com/MRCX-Personal/Smart_Bluetooth_Speaker_Beacon/blob/main/pic/sample.jpg?raw=true)
 
